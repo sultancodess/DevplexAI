@@ -1,5 +1,10 @@
 # 🚀 Devplex AI – AI-Powered MVP Generator  
 
+⚠️ **Note:** This project is currently in the **working phase**. New features and improvements are being actively developed! Stay tuned for updates.  
+
+
+---
+
 ### **Build your MVP in 1 minute with AI 🚀**  
 **Devplex AI** helps startup founders and teams create a **fully functional MVP** in just **one minute**. Using AI, it generates **production-ready** web applications and deploys them **instantly**.  
 
@@ -14,6 +19,8 @@
 ✅ **Customizable UI & Backend** – Modify and extend features as needed  
 
 ---
+
+
 
 
 
